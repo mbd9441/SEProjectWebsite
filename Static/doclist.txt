@@ -1,0 +1,256 @@
+{
+	"Documents": [
+		{
+			"General": [
+				{
+					"name": "Interactive Kiosk E-Notice Board Proposal",
+					"local": "Static/Documents/Interactive Kiosk E-Notice Board Proposal.docx",
+					"drive": "https://docs.google.com/document/d/1c6xhkGUcJmKxdtsLysxc3dCn-AU5gGt7_SErnRghZDg/edit?usp=sharing"
+				},
+				{
+					"name": "Interim Team Self-Assessment",
+					"local": "Static/Documents/Interim Team Self-Assessment.docx",
+					"drive": "https://docs.google.com/document/d/1cZWwLhB7zsFnIMaVViDLTDG5xWnelYVW8kdC4NCsqt8/edit?usp=sharing"
+				},
+				{
+					"name": "Project Synopsis",
+					"local": "Static/Documents/Project Synopsis I.docx",
+					"drive": "https://docs.google.com/document/d/1bAJobVqddivTXcPywacqIsuwHkvDH83H1OvZpqzGNag/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"Requirements": [
+				{
+					"name": "Functional and Non-Functional Requirements",
+					"local": "Static/Documents/Requirements/Functional and Non-Functional Requirements.docx",
+					"drive": "https://docs.google.com/document/d/1f9n3PBw_vUAeFEFcJyoFTuokmGWJZ8AYzUwDXLSYVBI/edit?usp=sharing"
+				},
+				{
+					"name": "Understanding Requirements",
+					"local": "Static/Documents/Requirements/Understanding Requirements.docx",
+					"drive": "https://docs.google.com/document/d/1h0KysZM2ds2mCdPHL85FVcIYghPl6fNtfmCJVj4Lt1s/edit?usp=sharing"
+				},
+				{
+					"name": "Use Cases",
+					"local": "Static/Documents/Requirements/Use Cases.docx",
+					"drive": "https://docs.google.com/document/d/1Rs7Csr_ygVvsO-otWWYnwA9Bq-l5v68jvZYrTxp8Bm0/edit?usp=sharing"
+				},
+				{
+					"name": "User Stories",
+					"local": "Static/Documents/Requirements/User Stories.docx",
+					"drive": "https://docs.google.com/document/d/1GXaA9LzxE6KpGtaappTwfybFK7aX_9N8pH-DSrsRa1U/edit?usp=sharing"
+				},
+				{
+					"name": "Web App Features",
+					"local": "Static/Documents/Requirements/Web App Features.docx",
+					"drive": "https://docs.google.com/document/d/1d4iYfl7yq4OZ3jOgk2w4tygNy4Kg7puPHIJvuIIzTV0/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"Design": [
+				{
+					"name": "Content Submission Flow",
+					"local": "Static/Documents/Design/Content Submission Flow.docx",
+					"drive": "https://docs.google.com/document/d/1f9n3PBw_vUAeFEFcJyoFTuokmGWJZ8AYzUwDXLSYVBI/edit?usp=sharing"
+				},
+				{
+					"name": "Integrating the Pieces",
+					"local": "Static/Documents/Design/Integrating the Pieces.docx",
+					"drive": "https://docs.google.com/document/d/1goEP6HQpXDn5WY5cFzdiSIlmP7GatnhbbBEr9FbYZdk/edit?usp=sharing"
+				},
+				{
+					"name": "IoT Topic Architecture",
+					"local": "Static/Documents/Design/IoT Topic Architecture.docx",
+					"drive": "https://docs.google.com/document/d/1A6GEzBEyFGbV8zUcy_Z9CKsx_SKsfuEmchwiGMnDwFU/edit?usp=sharing"
+				},
+				{
+					"name": "Smart TV Analysis",
+					"local": "Static/Documents/Design/Smart TV Analysis.docx",
+					"drive": "https://docs.google.com/document/d/1NVh45JhFEYnVVlQM2FQMRIHXRkSZLK39GJ32l4jpvsk/edit?usp=sharing"
+				},
+				{
+					"name": "Technical Decisions",
+					"local": "Static/Documents/Design/Technical Decisions.docx",
+					"drive": "https://docs.google.com/document/d/1qXlgrRtKwKrJ8DuC5yiGt2b4df9VRlPgRV8btDj1jbg/edit?usp=sharing"
+				},
+				{
+					"name": "UI Justification",
+					"local": "Static/Documents/Design/UI Justification.docx",
+					"drive": "https://docs.google.com/document/d/1SOFG4pSwLHxtbhnKKIIn2fDkKwsVQNWW-qfb3ALRgRs/edit?usp=sharing"
+				},
+				{
+					"name": "User Account Representation",
+					"local": "Static/Documents/Design/User Account Representation.docx",
+					"drive": "https://docs.google.com/document/d/1_7OndeRWiJwLFYjBQrKk_Ksspz9GZLWmx-rEYEwvzd0/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"Modeling": [
+				{
+					"name": "Domain Model",
+					"local": "Static/Documents/Modeling/Domain Model.docx",
+					"drive": "https://docs.google.com/document/d/1W7B53yD832A6JTim9Fk6DK8wbGDJ-99i0bkWByO2mMI/edit?usp=sharing"
+				},
+				{
+					"name": "ERD and Descriptions",
+					"local": "Static/Documents/Modeling/ERD and Descriptions.docx",
+					"drive": "https://docs.google.com/document/d/1TbefZlpOBXDMYlKqr_bmcANicnCk0TZhk8mNFSk7Vk4/edit?usp=sharing"
+				},
+				{
+					"name": "Table Reduction",
+					"local": "Static/Documents/Modeling/Table Reduction.xlsx",
+					"drive": "https://docs.google.com/spreadsheets/d/1vyBWNlby3x20ym9K7a1wnhOcVUDn9aAVSt0Lf9TOHmY/edit?usp=sharing"
+				},
+				{
+					"name": "Sequence Diagrams",
+					"local": "Static/Documents/Modeling/Sequence Diagrams.docx",
+					"drive": "https://docs.google.com/document/d/19ap68pN_9-RZyNWSXpHqGouedXdq9km9gC7tn1B2R1A/edit?usp=sharing"
+				},
+				{
+					"name": "Wireframes",
+					"local": "Static/Documents/Modeling/Wireframes.pptx",
+					"drive": "https://docs.google.com/presentation/d/13wrthKR73yBw-2eEBhrHuZypJJlpzBNMmPcWiOIRCAs/edit?usp=sharing"
+				},
+				{
+					"name": "Proposed App Wireframe",
+					"local": "Static/Documents/Modeling/Proposed App Wireframe.pptx",
+					"drive": "https://docs.google.com/presentation/d/1uxB5kZe9-eEGfh5SVQtILgmDbmbS0SuIOG8SiPBvgsk/edit?usp=sharing"
+				},
+				{
+					"name": "Proposed App Wireframe Oct28",
+					"local": "Static/Documents/Modeling/Proposed App Wireframe Oct28.pptx",
+					"drive": "https://docs.google.com/presentation/d/15Re3BIpU04cbIkBhVYoEONzQOgjNuObTa_KXSZKZXGc/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"Presentations": 
+			[
+				{
+					"name": "Interim Presentation",
+					"local": "Static/Documents/Presentations/Interim Presentation.pptx",
+					"drive": "https://docs.google.com/presentation/d/1HITYd0jI3lFpjdTb3Q3UCrv-TwAzb6OdVaejg27PgjU/edit?usp=sharing"
+				},
+				{
+					"name": "Proof of Concept (Low Fidelity)",
+					"local": "Static/Documents/Presentations/Proof of Concept (Low Fidelity).pptx",
+					"drive": "https://docs.google.com/presentation/d/1t1hcIxIsJO-hUIxBmhIcQSiXY-0n-l5OGTVKZSismXs/edit?usp=sharing"
+				},
+				{
+					"name": "Proof of Concept (Medium Fidelity)",
+					"local": "Static/Documents/Presentations/Proof of Concept (Medium Fidelity).pptx",
+					"drive": "https://docs.google.com/presentation/d/11LGuU1Gy7AFoMzne2Ow23dbl9UcxhBYYDnv0Z7IIkMs/edit?usp=sharing"
+				},
+				{
+					"name": "Final Presentation",
+					"local": "Static/Documents/Presentations/Final Presentation.pptx",
+					"drive": "https://docs.google.com/presentation/d/11J5L2y8vk8ye1BKHWUJSQGiJODlZXppYI92xvOtNzRo/edit?usp=sharing"
+				},
+				{
+					"name": "Poster",
+					"local": "Static/Documents/Presentations/Poster.pptx",
+					"drive": "https://docs.google.com/presentation/d/1gM3n4by3PdObR7h4vWTLxc-xbz1anKcfKBQqw8UrwUE/edit#slide=id.g5663e31c52_1_290"
+				}
+			]
+		},
+		{
+			"Planning": [
+				{
+					"name": "Project Plan",
+					"local": "Static/Documents/Planning/Project Plan.docx",
+					"drive": "https://docs.google.com/document/d/1XA_5JgMRMiXa2KgmaGP-DNCdrzrkVCNcfG7uvw5IuLo/edit?usp=sharing"
+				},
+				{
+					"name": "Project Schedule Semester 1",
+					"local": "Static/Documents/Planning/Project Schedule Semester 1.xlsx",
+					"drive": "https://docs.google.com/spreadsheets/d/1ERTp-GNIe0tydFeNvPpE2J7MBlmSOyybhI3K9_HoX6g/edit?usp=sharing"
+				},
+				{
+					"name": "Project Deliverables Semester 1",
+					"local": "Static/Documents/Planning/Project Deliverables Semester 1.docx",
+					"drive": "https://docs.google.com/document/d/1r2ZH7k9TqiUB8IP1aYx_wJYJiTwIVOyR7TGCQGvmjBM/edit?usp=sharing"
+				},
+				{
+					"name": "Four-Up Charts",
+					"local": "Static/Documents/Planning/Four-Up Charts.docx",
+					"drive": "https://docs.google.com/document/d/1D8X4hmmtiWLXB_7PU7HmhzG78iG_8axw38jpZFCSLk4/edit?usp=sharing"
+				},
+				{
+					"name": "Sprint Schedule Semester 1",
+					"local": "Static/Documents/Planning/Sprint Schedule Semester 1.docx",
+					"drive": "https://docs.google.com/document/d/1AMCTXrNTUTY3lgmhjKywSgL3Be2GmxI5QufEKtt07Us/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"Process": [
+				{
+					"name": "Semester 2 Process Proposal",
+					"local": "Static/Documents/Process/Semester 2 Process Proposal.docx",
+					"drive": "https://docs.google.com/document/d/1yiSG958kMFrFwF5VqP4BiA-Z4LoCspx06SrRMZjZu-s/edit?usp=sharing"
+				},
+				{
+					"name": "Redmine VS Jira",
+					"local": "Static/Documents/Process/Redmine VS Jira.docx",
+					"drive": "https://docs.google.com/document/d/1qe5oU3EkGW1VPFtbfiK5SyCtFqZKYZdCodDuyuFDmU8/edit?usp=sharing"
+				},
+				{
+					"name": "Self Assessment Notes",
+					"local": "Static/Documents/Process/Self Assessment Notes.docx",
+					"drive": "https://docs.google.com/document/d/1esJfMMOqBCa1CkyaEAnuFK92nejTIOFml9mFIhKwQbM/edit?usp=sharing"
+				},
+				{
+					"name": "Team Roles",
+					"local": "Static/Documents/Process/Team Roles.docx",
+					"drive": "https://docs.google.com/document/d/1EoSiU0nzP1n5S4aeOoaTUZWmqsfl3i7JQxDJz0_O9SY/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"Metrics": [
+				{
+					"name": "Metrics Rationale",
+					"local": "Static/Documents/Metrics/Metrics Rationale.docx",
+					"drive": "https://docs.google.com/document/d/16bUENUVelil0TbGqgkiERasTBPyIPc1YnQkWfYsdOzU/edit?usp=sharing"
+				},
+				{
+					"name": "Time Tracking",
+					"local": "Static/Documents/Metrics/Time Tracking.xlsx",
+					"drive": "https://docs.google.com/spreadsheets/d/1EjECzNcQUJcDzedJzRmhCC2-uAVycuBNEm3li8hlXYE/edit?usp=sharing"
+				},
+				{
+					"name": "Metrics Tracking",
+					"local": "Static/Documents/Metrics/Metrics Tracking.xlsx",
+					"drive": "https://docs.google.com/spreadsheets/d/1ocfh9-9207dTGJJC1-7MGJoUKBO3evGCOe3QDAacviQ/edit?usp=sharing"
+				}
+			]
+		},
+		{
+			"Source Code": [
+				{
+					"name": "infoKiosk",
+					"local": "Static/Documents/SourceCode/infoKiosk-master.zip",
+					"drive": "/"
+				},
+				{
+					"name": "ikFrontEnd",
+					"local": "Static/Documents/SourceCode/ikFrontEnd-master.zip",
+					"drive": "/"
+				},
+				{
+					"name": "ikBackEnd",
+					"local": "Static/Documents/SourceCode/ikBackEnd-master.zip",
+					"drive": "/"
+				},
+				{
+					"name": "ikInfraAsCode",
+					"local": "Static/Documents/SourceCode/ikInfraAsCode-master.zip",
+					"drive": "/"
+				}
+			]
+		}
+	]
+}
